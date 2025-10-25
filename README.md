@@ -20,7 +20,7 @@ RAM Size: 0 KiB
 0153: CD E3 29 CALL $29E3  
 0156: F0 41    LDH A,($41)  
 0158: E6 03    AND #03  
-015A: 20 FA    JR NZ,-6 -> $0156
+015A: 20 FA    JR NZ,-6 -> $0156  
 015C: 46       LD B,(HL)  
 015D: F0 41    LDH A,($41)  
 015F: E6 03    AND #03  

@@ -1,5 +1,4 @@
-//opcode_table.h
-//10/18/25
+//opcode.h
 
 // include/opcode.h
 #ifndef OPCODE_H

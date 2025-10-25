@@ -1,5 +1,4 @@
 //main.c
-//10/18/25
 
 #include <stdlib.h>
 #include <stdio.h>

@@ -1,8 +1,4 @@
-//ROM.h
-//10/18/25
-//Loop through ROM data
-//Decode bytes using a lookup table (opcode_table.h)
-//Print mnemonics (like LD A,B or JP 0x1234)
+//Disassembler.h
 
 #include <stdint.h>
 #include "opcode.h"

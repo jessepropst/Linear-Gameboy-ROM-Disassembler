@@ -1,5 +1,4 @@
 //ROM.c
-//10/19/25
 
 #include <stdint.h>
 #include <stdio.h>

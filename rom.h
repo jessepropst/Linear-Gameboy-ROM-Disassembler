@@ -1,7 +1,5 @@
 //ROM.h
-//10/18/25
-//Function: Read in a gameboy file
-//Print the ROM header
+
 
 #ifndef ROM_H
 #define ROM_H

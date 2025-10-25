@@ -1,6 +1,6 @@
-//OPCODE_table.c
+//OPCODE.c
 //10/18/25
-//FUnction: Create a list of all the OPCODEs for the LR35902 CPU Instruction Set
+//Function: Create a list of all the OPCODEs for the LR35902 CPU Instruction Set
 
 #include "opcode.h"
 

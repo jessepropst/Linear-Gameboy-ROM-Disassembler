@@ -8,9 +8,7 @@ Console: ./disassembler.exe Game.gb
 Text File: ./disassembler.exe Game.gb > output.txt
 
 # Limitations:
--This disassembler performs linear decoding, meaning it reads and decodes instructions sequentially without analyzing control flow or data boundaries.
--It can handle simple ROMs like Tetris but will have issues with MBC (Memory Bank Controller) ROMs such as Pokemon Blue and Pokemon Red.
--This disassembler simply prints jump offsets and addresses, it does not follow program flow.
+This disassembler performs linear decoding, meaning it reads and decodes instructions sequentially without analyzing control flow or data boundaries. It can handle simple ROMs like Tetris but will have issues with MBC (Memory Bank Controller) ROMs such as Pokemon Blue and Pokemon Red. This disassembler simply prints jump offsets and addresses, it does not follow program flow.
 
 # Example Output:
 Note: This is only a portion of the full output
